@@ -1,0 +1,17 @@
+[project]
+name = "pronostico-de-demanda"
+version = "0.1.0"
+description = "Modelo de predicción y análisis de la demanda utilizando Python y Machine Learning."
+authors = [
+    {name = "Jeffersson Pretell"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
