@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>README - Proyecto de Machine Learning</title>
+</head>
 <body>
 
     <h1>📊 Nombre del Proyecto</h1>
@@ -105,3 +111,4 @@
     </p>
 
 </body>
+</html>
